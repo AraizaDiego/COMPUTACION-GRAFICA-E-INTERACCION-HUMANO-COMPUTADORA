@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/escudo_unam.png" width="110" alt="Escudo UNAM" />
+  <img src="[escudo_unam.png"](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/1024px-Escudo-UNAM-escalable.svg.png) width="110" alt="Escudo UNAM" />
   <img src="assets/escudo_facultad.png" width="110" alt="Escudo Facultad" style="margin-left:20px"/>
 </p>
 
