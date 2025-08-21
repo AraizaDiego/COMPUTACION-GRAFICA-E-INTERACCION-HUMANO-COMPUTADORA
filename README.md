@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[escudo_unam.png"](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/1024px-Escudo-UNAM-escalable.svg.png) width="110" alt="Escudo UNAM" />
-  <img src="assets/escudo_facultad.png" width="110" alt="Escudo Facultad" style="margin-left:20px"/>
+
+  <img src="https://github.com/user-attachments/assets/20ee7c1a-264f-4cf3-afcb-d44241b6f2b2" width="110" alt="Escudo UNAM" />
+  <img src="https://github.com/user-attachments/assets/f261139e-8089-4a79-8021-c7e8d6b8a4f2" width="110" alt="Escudo Facultad" style="margin-left:20px"/>
 </p>
 
 <div align="center">
