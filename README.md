@@ -1,6 +1,8 @@
 <p align="center">
+![escudounam_negro](https://github.com/user-attachments/assets/d0d2aa9f-1b3d-4910-af28-b5cdab691860)
 
-  <img src="https://github.com/user-attachments/assets/20ee7c1a-264f-4cf3-afcb-d44241b6f2b2" width="110" alt="Escudo UNAM" />
+
+  <img src="https://github.com/user-attachments/assets/d0d2aa9f-1b3d-4910-af28-b5cdab691860" width="110" alt="Escudo UNAM" />
   <img src="https://github.com/user-attachments/assets/f261139e-8089-4a79-8021-c7e8d6b8a4f2" width="110" alt="Escudo Facultad" style="margin-left:20px"/>
 </p>
 
